@@ -3,7 +3,7 @@ mjSIP is a complete java-based implementation of a SIP stack. It provides in the
 Created from http://www.mjsip.org/index.html
 ## Diffblue Tests
 - The Diffblue tests are available in https://github.com/diffblue/mjsip/tree/master/src/test/java
-## Usage
+## Usage (linux only)
 - git clone https://github.com/Diffblue/mjsip
 - cd mjsip
 - mvn install
